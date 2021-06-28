@@ -107,8 +107,20 @@
   font-size: 1.25rem;
   line-height: 1.5;
 }
-
+.header{
+  margin-top: 3vh;
+  background-color: rgb(16 ,185 ,129);
+  width: 85vw;
+  text-align: -webkit-center;
+  height: 5vh;
+  color: white;
+  font-size: xx-large;
+font-weight: bolder;
+  border-radius: 5px;
+  padding: 0vh;
+}
 .logo {
+
   height: 1em;
   margin-left: 0.5rem;
 }
